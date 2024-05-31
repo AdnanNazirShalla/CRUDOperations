@@ -1,0 +1,12 @@
+C:\Users\HP\Source\Repos\CRUDinMVC\CRUDinMVC.Domain\bin\Debug\net6.0\CRUDinMVC.Domain.deps.json
+C:\Users\HP\Source\Repos\CRUDinMVC\CRUDinMVC.Domain\bin\Debug\net6.0\CRUDinMVC.Domain.dll
+C:\Users\HP\Source\Repos\CRUDinMVC\CRUDinMVC.Domain\bin\Debug\net6.0\CRUDinMVC.Domain.pdb
+C:\Users\HP\Source\Repos\CRUDinMVC\CRUDinMVC.Domain\obj\Debug\net6.0\CRUDinMVC.Domain.csproj.AssemblyReference.cache
+C:\Users\HP\Source\Repos\CRUDinMVC\CRUDinMVC.Domain\obj\Debug\net6.0\CRUDinMVC.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\Source\Repos\CRUDinMVC\CRUDinMVC.Domain\obj\Debug\net6.0\CRUDinMVC.Domain.AssemblyInfoInputs.cache
+C:\Users\HP\Source\Repos\CRUDinMVC\CRUDinMVC.Domain\obj\Debug\net6.0\CRUDinMVC.Domain.AssemblyInfo.cs
+C:\Users\HP\Source\Repos\CRUDinMVC\CRUDinMVC.Domain\obj\Debug\net6.0\CRUDinMVC.Domain.csproj.CoreCompileInputs.cache
+C:\Users\HP\Source\Repos\CRUDinMVC\CRUDinMVC.Domain\obj\Debug\net6.0\CRUDinMVC.Domain.dll
+C:\Users\HP\Source\Repos\CRUDinMVC\CRUDinMVC.Domain\obj\Debug\net6.0\refint\CRUDinMVC.Domain.dll
+C:\Users\HP\Source\Repos\CRUDinMVC\CRUDinMVC.Domain\obj\Debug\net6.0\CRUDinMVC.Domain.pdb
+C:\Users\HP\Source\Repos\CRUDinMVC\CRUDinMVC.Domain\obj\Debug\net6.0\ref\CRUDinMVC.Domain.dll

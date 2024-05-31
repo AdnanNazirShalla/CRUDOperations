@@ -1,0 +1,15 @@
+C:\Users\HP\Source\Repos\CRUDinMVC\CRUDinMVC.Application\bin\Debug\net6.0\CRUDinMVC.Application.deps.json
+C:\Users\HP\Source\Repos\CRUDinMVC\CRUDinMVC.Application\bin\Debug\net6.0\CRUDinMVC.Application.dll
+C:\Users\HP\Source\Repos\CRUDinMVC\CRUDinMVC.Application\bin\Debug\net6.0\CRUDinMVC.Application.pdb
+C:\Users\HP\Source\Repos\CRUDinMVC\CRUDinMVC.Application\bin\Debug\net6.0\CRUDinMVC.Domain.dll
+C:\Users\HP\Source\Repos\CRUDinMVC\CRUDinMVC.Application\bin\Debug\net6.0\CRUDinMVC.Domain.pdb
+C:\Users\HP\Source\Repos\CRUDinMVC\CRUDinMVC.Application\obj\Debug\net6.0\CRUDinMVC.Application.csproj.AssemblyReference.cache
+C:\Users\HP\Source\Repos\CRUDinMVC\CRUDinMVC.Application\obj\Debug\net6.0\CRUDinMVC.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\Source\Repos\CRUDinMVC\CRUDinMVC.Application\obj\Debug\net6.0\CRUDinMVC.Application.AssemblyInfoInputs.cache
+C:\Users\HP\Source\Repos\CRUDinMVC\CRUDinMVC.Application\obj\Debug\net6.0\CRUDinMVC.Application.AssemblyInfo.cs
+C:\Users\HP\Source\Repos\CRUDinMVC\CRUDinMVC.Application\obj\Debug\net6.0\CRUDinMVC.Application.csproj.CoreCompileInputs.cache
+C:\Users\HP\Source\Repos\CRUDinMVC\CRUDinMVC.Application\obj\Debug\net6.0\CRUDinMVC.Application.csproj.CopyComplete
+C:\Users\HP\Source\Repos\CRUDinMVC\CRUDinMVC.Application\obj\Debug\net6.0\CRUDinMVC.Application.dll
+C:\Users\HP\Source\Repos\CRUDinMVC\CRUDinMVC.Application\obj\Debug\net6.0\refint\CRUDinMVC.Application.dll
+C:\Users\HP\Source\Repos\CRUDinMVC\CRUDinMVC.Application\obj\Debug\net6.0\CRUDinMVC.Application.pdb
+C:\Users\HP\Source\Repos\CRUDinMVC\CRUDinMVC.Application\obj\Debug\net6.0\ref\CRUDinMVC.Application.dll
